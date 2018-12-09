@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2018-12-04T20:10:15+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:dc6e7f93-ccda-4bc1-ab29-69fc8f9e595a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="682090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="683220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="684110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="684499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="684800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="686568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="688210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="688509"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="688900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="691610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="699200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="700378"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="706310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="707233"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="708310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="709712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="710725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="711230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="712640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="713497"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="718610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="720370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="720650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="721082"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="722690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="725940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="731300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="732059"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="732390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="733231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="734990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="736285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="739320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="741404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="746310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="748898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="753650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="754770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="759540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="761026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="762600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="763500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="763630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="763850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="763851"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="765131"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="pom@ ">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> мужчи'на на ла'вочке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> а э'та карти'нка у меня' ассоции'руется </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> с приня'тием реше'ний </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE> да </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> ну по кра'йней ме'ре э'та карти'нка ассоции'руется у меня' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> ска'жем так </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> с уве'ренностью </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>  в приня'тии реше'ний </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> а-а-а' а е'ще она' ассоции'руется </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> м-м-м </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> с  основа'тельностью</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> да </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="paa@ ">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> да </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> краси'вая да карти'нка? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> все?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> на э'той карти'нке </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> изображены' за'росли </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> а-а-а'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> с ножо'м?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> она' на э'той же страни'це, где мы сейча'с чита'ем?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> а-а-а' а как ты е'ще е'е мо'жешь описа'ть? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> э'то я'корь </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> бро'шенный в песке' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
